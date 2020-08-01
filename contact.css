@@ -1,0 +1,76 @@
+
+.myDiv {
+    border: 3px outset rgb(15, 3, 70);
+    background-image: url(city-2.jpg);
+    background-image: no-repeat;
+    width: 1480px;
+    height: 500px;
+    
+    text-align: left;
+  }
+  .kot{
+    height:100px ;
+    width: 200px; ;
+  }
+.main{
+  display: flex;
+  justify-content: space-between;
+}
+  li{
+    list-style-type: none;
+    padding-right: 50px;
+    color: rgb(146, 143, 143);
+  }
+  ol{
+    display: flex;
+    justify-content: space-between;
+    display:flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 50px;
+  }
+  .low
+{
+    padding-right: 50px;
+    padding-top: 40px;
+}
+.cen{
+  text-align: center;
+}
+.fom{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 400px;
+  padding-left: 100px;
+}
+.lom{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 50px;
+
+}
+.go{
+  border-radius: 20px;
+}
+.hu{
+border-radius: 20px;
+    color: black;
+    background-color: rgb(0, 51, 128);
+    width:70px;
+    height:35px;
+}
+h1{
+  color: darkgray;
+}
+h3{
+  color: darkgray;
+}
+.loop{
+  color:gray;
+  border-radius: 40px;
+  height: 40px;
+  width: 100px;
+  
+  
+}

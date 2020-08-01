@@ -1,0 +1,103 @@
+.myDiv {
+
+    background-image: url(vat.jpg);
+    
+    width: 1350px;
+    height: 500px;
+    
+    text-align: left;
+  }
+  .kot{
+    height:150px ;
+    width: 300px; 
+  }
+.main{
+  display: flex;
+  justify-content: space-between;
+}
+  li{
+    list-style-type: none;
+    padding-right: 50px;
+    color: rgb(146, 143, 143);
+  }
+  
+  .kot{
+    height:100px ;
+    width: 200px; ;
+  }
+.main{
+  display: flex;
+  justify-content: space-between;
+
+}
+  li{
+    list-style-type: none;
+    padding-right: 50px;
+  }
+  ol{
+    display: flex;
+    justify-content: space-between;
+  }
+  ol{
+    display:flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+ 
+.main2{
+  display: flex;
+  justify-content: space-between;
+}
+.main3{
+  display: flex;
+  justify-content: space-between;
+
+}
+.lom{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 50px;
+
+}
+.cl{
+  width: 120px;
+  height: 100px;
+  
+}
+.ho{
+width:120px ;
+height:100px ;
+}
+.su{
+  width:120px ;
+height:100px ;
+}
+.sa{
+  width:120px ;
+height:100px ;
+}
+.row{
+  display:flex;
+  justify-content: space-between;
+  padding-right: 20px;
+  padding-left: 30px;
+}
+h1{
+  color: rgb(134, 130, 130);
+}
+h2{
+  color: black;
+}
+h3{
+  color: gray;
+}
+.loop{
+  color:gray;
+  border-radius: 40px;
+  height: 40px;
+  width: 100px;
+  
+  
+}

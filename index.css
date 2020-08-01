@@ -1,0 +1,43 @@
+body{
+    background-image: url(ro.jpg);
+    background-image: no-repeat;
+    background-size: cover;
+}
+.main{
+    display: flex;
+}
+.right{
+    padding-top: 30px;
+    padding-left: 400px;
+    color: aqua;
+}
+.main1{
+    display:flex;
+    
+    padding-left: 500px;
+    padding-top: 80px;
+}
+.loop{
+    color:rgb(0, 4, 252);
+    border-radius: 40px;
+    height: 40px;
+    width: 100px;
+    
+}
+button{
+    color:darkcyan;
+}
+ol{
+    display:flex;
+    list-style: none;
+    justify-content: space-between;
+}
+li{
+    padding-right: 30px;
+}
+.lom{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+  
+  }
